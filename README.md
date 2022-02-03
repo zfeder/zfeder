@@ -1,7 +1,5 @@
 ### Hi there 👋
-<p align="center">
-  <img src="https://github.com/matyo91/matyo91/raw/main/assets/github.gif" alt="Hi, I'm Federico 👋">
-</p>
+[![Twitter Follow](https://img.shields.io/twitter/follow/zRedef_?color=%20%2300acee&label=Follow%20me%20on%20Twitter&style=for-the-badge)][twitter]
 
 ![Federico's GitHub stats](https://github-readme-stats.vercel.app/api?username=zfeder&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zfeder&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
